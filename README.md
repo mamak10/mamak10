@@ -11,5 +11,3 @@
                 System.out.println("Markah yang dimasukkan adalah tidak sah. " );
   }
   
-  ```python
-  print("You found the hidden code!")
