@@ -4,10 +4,15 @@
   <summary>Contoh output.</summary>
 
   public static void main (String[] args) {
+         
          int markah=55;
+         
          if (markah >=0 && markah <=100)
+                
                 System.out.println("Markah yang dimasukkan adalah sah. " );
+         
          else
+                
                 System.out.println("Markah yang dimasukkan adalah tidak sah. " );
   }
   
