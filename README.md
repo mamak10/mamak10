@@ -15,4 +15,19 @@
                 
                 System.out.println("Markah yang dimasukkan adalah tidak sah. " );
   }
+
+
+## Operator logikal OR
   
+<details>
+  <summary>Contoh output.</summary>
+ 
+  public static void main (String[] args) {
+
+      boolean malam=true;
+
+      boolean hujan=false;
+
+      if (malam | | hujan)
+
+             System.out.println("Angkat baju. " );
