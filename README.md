@@ -1,16 +1,15 @@
-## Hi there 👋
+## Operator logikal AND
 
-<!--
-**mamak10/mamak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Contoh output.</summary>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  public static void main (String[] args) {
+         int markah=55;
+         if (markah >=0 && markah <=100)
+                System.out.println("Markah yang dimasukkan adalah sah. " );
+         else
+                System.out.println("Markah yang dimasukkan adalah tidak sah. " );
+  }
+  
+  ```python
+  print("You found the hidden code!")
