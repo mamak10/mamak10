@@ -81,9 +81,11 @@
 ---
 <p id="my-footnote?">
   ## Tahukah Anda?
+  
   <small>1. AND: Apabila anda inginkan semua menjadi betul. <a href="#ref1">↩</a></small>
 </p>
-<small>2. OR: Apabila anda hanya inginkan satu sahaja menjadi betul.">[1]</a></sup> <a href="#ref1">↩</a></small>
+
+  <small>2. OR: Apabila anda hanya inginkan satu sahaja menjadi betul.">[1]</a></sup> <a href="#ref1">↩</a></small>
 </p>
 
                     
