@@ -34,6 +34,7 @@
 
 
 ## Operator logikal NOT
+
 <details>
   <summary>Contoh output.</summary>
 
@@ -59,3 +60,19 @@
                 
                 System.out.println("Anda lulus " );
   }
+
+
+## Penggabungan Operator Hubungan & Operator Logikal dlm Struktur Kawalan Pilihan
+
+<details>
+  <summary>Contoh output.</summary>
+
+  public static void main (String[] args) {
+         
+         double celcius=39, fahrenheit=97;
+
+         if (celcius>37 | | fahrenheit>98.6)
+
+                System.out.println("Anda mungkin demam panas. " );
+
+}
