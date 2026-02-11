@@ -76,3 +76,9 @@
                 System.out.println("Anda mungkin demam panas. " );
 
 }
+
+
+Sentence text<sup><a href="Tahukah Anda?
+                    AND: Apabila anda inginkan semua menjadi betul.
+                    OR: Apabila anda hanya inginkan satu sahaja menjadi betul.">[1]</a></sup>
+
