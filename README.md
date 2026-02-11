@@ -51,11 +51,11 @@
 
                  lulus=false;
          
-         if (markah >=0 && markah <=100)
+         if (!lulus)
                 
-                System.out.println("Markah yang dimasukkan adalah sah. " );
+                System.out.println("Anda perlu mengulangi ujian " );
          
          else
                 
-                System.out.println("Markah yang dimasukkan adalah tidak sah. " );
+                System.out.println("Anda lulus " );
   }
